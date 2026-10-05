@@ -1,0 +1,13 @@
+env:
+  - name: PORT
+    default: "3000"
+  - name: PG_HOST
+    default: app-test-db
+  - name: PG_PORT
+    default: "5432"
+  - name: PG_USER
+    default: gavety
+  - name: PG_PASSWORD
+    default: "ZdREji1bKHT2BPLQkFdcH2f5"
+  - name: PG_DB
+    default: app_test_db
